@@ -33,6 +33,9 @@ Helps businesses monitor key performance metrics in real time and make faster, d
 - SQL queries for business metrics analysis
 - Interactive dashboards for visualization
 
+## 📄 Project Documentation
+Detailed project report with screenshots is available here:
+- [BI PROJECT Report](docs/BI%20PROJECT.docx)
 
 ## 📌 Author
 A Veena  

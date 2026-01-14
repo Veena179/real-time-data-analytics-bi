@@ -27,6 +27,12 @@ Helps businesses monitor key performance metrics in real time and make faster, d
 - `/data` – Sample datasets
 - `/scripts` – Data processing and analytics scripts
 - `/dashboard` – Visualization and dashboard code
+  
+## 📂 Project Components
+- Python scripts for KPI calculation and analytics
+- SQL queries for business metrics analysis
+- Interactive dashboards for visualization
+
 
 ## 📌 Author
 A Veena  
